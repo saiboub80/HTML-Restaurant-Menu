@@ -59,6 +59,8 @@ nav a:hover {
 }
 
 #banner img {
+    padding: 100%;
+    margin: 100%;
     width: 100;
     height: auto;
 
